@@ -1,12 +1,11 @@
 # ChatX 🚀
 
-Welcome to **ChatX**, the ultimate terminal-based chat application Whether you're coordinating with your team or just chatting with friends, ChatX ensures your conversations are secure and spam-free—because nobody likes unwanted messages, right? 😉
+Welcome to **ChatX**, the  terminal-based chat application Whether you're coordinating with your team or just chatting with friends,
 
 ## Features ✨
 
-- **Terminal-Based Interface**: Keep it old school with a sleek terminal view.
-- **Spam Filter**: Because even bots need to learn some manners.
-- **Full Authentication**: Keep your chats secure and exclusive.
+- **Terminal-Based Interface**:
+- **Full Authentication**
 
 ## Getting Started 🛠️
 
