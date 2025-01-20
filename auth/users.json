@@ -1,0 +1,23 @@
+[
+    {
+        "email": "nour@nour.com",
+        "password": "Aaaaa1",
+        "phone": "01026880750",
+        "name": "nour",
+        "age": "20"
+    },
+    {
+        "email": "nour@nours.com",
+        "password": "Aaaaa2",
+        "phone": "01026880750",
+        "name": "nour",
+        "age": "20"
+    },
+    {
+        "email": "ahmed@ahmed.com",
+        "password": "Aaaaa3",
+        "phone": "01026880750",
+        "name": "ahmed",
+        "age": "23"
+    }
+]
